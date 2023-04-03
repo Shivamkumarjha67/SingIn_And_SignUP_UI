@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583227439284",
+    "project_id": "signup-ui-e228a",
+    "storage_bucket": "signup-ui-e228a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583227439284:android:41bfdf41bbf68d32cd7fe1",
+        "android_client_info": {
+          "package_name": "com.example.signup_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583227439284-11hf1hmg2asjdle2gg360g2g3ardbukp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpva1O42zx_YW644VkcEHyRh9OLynzi54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583227439284-11hf1hmg2asjdle2gg360g2g3ardbukp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
